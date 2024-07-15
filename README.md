@@ -70,3 +70,4 @@ You can customize the color scheme by modifying the CSS variables in the `:root`
 }
 ```
 ## License
+This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
