@@ -1,11 +1,11 @@
 :root {
     /* colors */
-    --primary-color: #dfdfe2;
-    --secondary-color: #ffffff;
-    --app-background-color: #4d4d62;
-    --background-color: #1b1b32;
-    --foreground-color: #3b3b4f;
-    --highlight-color: #f1be32;
+    --primary-color: #dfdfe2;       /* Light gray */
+    --secondary-color: #ffffff;     /* White */
+    --app-background-color: #b5a7d2; /* Baby purple */
+    --background-color: #8a6fb2;    /* Complementary color */
+    --foreground-color: #3b3b4f;    /* Dark gray */
+    --highlight-color: #f1be32;     /* Highlight color */
   
     /* font sizes */
     --root-font-size: 16px;
@@ -367,3 +367,4 @@
       text-align: center;
     }
   }
+  
